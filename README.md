@@ -74,6 +74,8 @@ Chrome	Ctrl + Shift + J
 Edge	Ctrl + Shift + J
 Firefox	Ctrl + Shift + K
 
+4.Copia el codigo y pagalo en la consola y presiona enter
+
 ---
 
 ## 📌 Ejemplo de uso
