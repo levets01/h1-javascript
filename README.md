@@ -70,9 +70,12 @@ git clone https://github.com/tu-usuario/tu-repositorio.git
 2. Abre la carpeta del proyecto.
 
 3. Ejecuta el archivo `index.html` en tu navegador.
-Chrome	Ctrl + Shift + J
-Edge	Ctrl + Shift + J
-Firefox	Ctrl + Shift + K
+
+
+Chrome	  Ctrl + Shift + J
+Edge	  Ctrl + Shift + J
+Firefox	  Ctrl + Shift + K 
+`
 
 4.Copia el codigo y pagalo en la consola y presiona enter
 
