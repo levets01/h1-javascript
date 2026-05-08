@@ -19,19 +19,11 @@ El programa valida si la edad ingresada es correcta y muestra un mensaje diferen
 ## 🛠️ Tecnologías utilizadas
 
 - JavaScript
-- HTML5
+
 
 ---
 
-## 📂 Estructura del proyecto
 
-```bash
-📁 proyecto
- ├── index.html
- └── script.js
-```
-
----
 
 ## 💻 Código JavaScript
 
@@ -78,6 +70,9 @@ git clone https://github.com/tu-usuario/tu-repositorio.git
 2. Abre la carpeta del proyecto.
 
 3. Ejecuta el archivo `index.html` en tu navegador.
+Chrome	Ctrl + Shift + J
+Edge	Ctrl + Shift + J
+Firefox	Ctrl + Shift + K
 
 ---
 
@@ -111,4 +106,4 @@ Hola Ana, eres menor de edad. ¡Sigue aprendiendo y disfrutando del código!
 
 ## 👨‍💻 Autor
 
-Proyecto realizado como práctica de JavaScript.
+Proyecto realizado como práctica de JavaScrip por Stevel Iglesias.
